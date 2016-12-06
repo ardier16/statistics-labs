@@ -1,0 +1,12 @@
+C:\Users\Ardier16\Desktop\2nd Course\ТеорВер\lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Ardier16\Desktop\2nd Course\ТеорВер\lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Ardier16\Desktop\2nd Course\ТеорВер\lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Ardier16\Desktop\2nd Course\ТеорВер\lab2\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Ardier16\Desktop\2nd Course\ТеорВер\lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Ardier16\Desktop\2nd Course\ТеорВер\lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab2\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
