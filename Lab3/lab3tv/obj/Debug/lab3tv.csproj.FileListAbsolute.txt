@@ -1,0 +1,11 @@
+c:\users\максим\documents\visual studio 2017\Projects\lab3tv\lab3tv\bin\Debug\lab3tv.exe.config
+c:\users\максим\documents\visual studio 2017\Projects\lab3tv\lab3tv\bin\Debug\lab3tv.exe
+c:\users\максим\documents\visual studio 2017\Projects\lab3tv\lab3tv\bin\Debug\lab3tv.pdb
+c:\users\максим\documents\visual studio 2017\Projects\lab3tv\lab3tv\obj\Debug\lab3tv.csprojResolveAssemblyReference.cache
+c:\users\максим\documents\visual studio 2017\Projects\lab3tv\lab3tv\obj\Debug\lab3tv.Properties.Resources.resources
+c:\users\максим\documents\visual studio 2017\Projects\lab3tv\lab3tv\obj\Debug\lab3tv.csproj.GenerateResource.Cache
+c:\users\максим\documents\visual studio 2017\Projects\lab3tv\lab3tv\obj\Debug\lab3tv.exe
+c:\users\максим\documents\visual studio 2017\Projects\lab3tv\lab3tv\obj\Debug\lab3tv.pdb
+c:\users\максим\documents\visual studio 2017\Projects\lab3tv\lab3tv\bin\Debug\Troschuetz.Random.dll
+c:\users\максим\documents\visual studio 2017\Projects\lab3tv\lab3tv\obj\Debug\lab3tv.Form2.resources
+c:\users\максим\documents\visual studio 2017\Projects\lab3tv\lab3tv\obj\Debug\lab3tv.Distributions.resources
