@@ -1,0 +1,9 @@
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab1wf\lab1wf\bin\Debug\lab1wf.exe.config
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab1wf\lab1wf\bin\Debug\lab1wf.exe
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab1wf\lab1wf\bin\Debug\lab1wf.pdb
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab1wf\lab1wf\obj\Debug\lab1wf.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab1wf\lab1wf\obj\Debug\lab1wf.Form1.resources
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab1wf\lab1wf\obj\Debug\lab1wf.Properties.Resources.resources
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab1wf\lab1wf\obj\Debug\lab1wf.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab1wf\lab1wf\obj\Debug\lab1wf.exe
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\lab1wf\lab1wf\obj\Debug\lab1wf.pdb
