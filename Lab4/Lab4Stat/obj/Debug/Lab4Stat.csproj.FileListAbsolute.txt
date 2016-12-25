@@ -1,0 +1,18 @@
+C:\Users\Максим\Desktop\Lab4Stat\Lab4Stat\bin\Debug\Lab4Stat.exe.config
+C:\Users\Максим\Desktop\Lab4Stat\Lab4Stat\bin\Debug\Lab4Stat.exe
+C:\Users\Максим\Desktop\Lab4Stat\Lab4Stat\bin\Debug\Lab4Stat.pdb
+C:\Users\Максим\Desktop\Lab4Stat\Lab4Stat\obj\Debug\Lab4Stat.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\Lab4Stat\Lab4Stat\obj\Debug\Lab4Stat.Form1.resources
+C:\Users\Максим\Desktop\Lab4Stat\Lab4Stat\obj\Debug\Lab4Stat.Properties.Resources.resources
+C:\Users\Максим\Desktop\Lab4Stat\Lab4Stat\obj\Debug\Lab4Stat.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\Lab4Stat\Lab4Stat\obj\Debug\Lab4Stat.exe
+C:\Users\Максим\Desktop\Lab4Stat\Lab4Stat\obj\Debug\Lab4Stat.pdb
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\Лабы\Lab4\Lab4Stat\bin\Debug\Lab4Stat.exe.config
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\Лабы\Lab4\Lab4Stat\bin\Debug\Lab4Stat.exe
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\Лабы\Lab4\Lab4Stat\bin\Debug\Lab4Stat.pdb
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\Лабы\Lab4\Lab4Stat\obj\Debug\Lab4Stat.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\Лабы\Lab4\Lab4Stat\obj\Debug\Lab4Stat.Form1.resources
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\Лабы\Lab4\Lab4Stat\obj\Debug\Lab4Stat.Properties.Resources.resources
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\Лабы\Lab4\Lab4Stat\obj\Debug\Lab4Stat.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\Лабы\Lab4\Lab4Stat\obj\Debug\Lab4Stat.exe
+C:\Users\Максим\Desktop\2nd Course\ТеорВер\Лабы\Lab4\Lab4Stat\obj\Debug\Lab4Stat.pdb
